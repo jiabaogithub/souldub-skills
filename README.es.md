@@ -8,7 +8,7 @@
 
 **Video Translate Skill** es un flujo de trabajo de traducción de vídeo impulsado por IA que traduce el audio hablado de tus vídeos a otro idioma, genera subtítulos SRT sincronizados, crea doblaje con texto a voz (TTS) y vuelve a integrar la nueva pista de audio en el vídeo, todo en un único proceso automatizado.
 
-Está construido sobre **SoulDub AI** y traduce vídeos MP4 locales con **doblaje con voz original**, de modo que el doblaje conserva el carácter del hablante original. Cuando el procesamiento termina, puedes descargar:
+Está construido sobre **[SoulDub](https://souldub.ai) AI** y traduce vídeos MP4 locales con **doblaje con voz original**, de modo que el doblaje conserva el carácter del hablante original. Cuando el procesamiento termina, puedes descargar:
 
 - el **vídeo traducido**
 - **subtítulos en el idioma de destino** (SRT)

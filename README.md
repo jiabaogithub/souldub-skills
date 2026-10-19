@@ -8,7 +8,7 @@
 
 **Video Translate Skill** is an AI-powered video translation workflow that translates the spoken audio in your videos into another language, generates timed SRT subtitles, creates dubbed speech with text-to-speech (TTS), and merges the new audio track back into the video, all in one automated pipeline.
 
-Built on **SoulDub AI**, it translates local MP4 videos with **original-voice dubbing**, so the dubbed speech keeps the feel of the original speaker. When processing is finished, you can download:
+Built on **[SoulDub](https://souldub.ai) AI**, it translates local MP4 videos with **original-voice dubbing**, so the dubbed speech keeps the feel of the original speaker. When processing is finished, you can download:
 
 - the **translated video**
 - **target-language subtitles** (SRT)
