@@ -5,7 +5,7 @@ license: MIT
 ---
 
 # SoulDub Original-Voice Video Translation
-
+Video Translate Skill is an AI-powered video translation workflow that translates the spoken audio in your videos into another language, generates timed SRT subtitles, creates dubbed speech with text-to-speech (TTS), and merges the new audio track back into the video, all in one automated pipeline.\
 Use this skill to translate local MP4 videos with SoulDub. Let the scripts handle upload, task creation, polling, result download, saved state, and retry behavior. The agent should understand the user's intent, collect missing parameters, call the scripts, report progress, and explain the final result.
 
 Runtime requirements: Python 3.11+, `uv`, network access to the SoulDub API, read access to the source video, and write access to the output directory. The scripts declare dependencies with PEP 723 and must be run with `uv run`; do not call `python scripts/video_translation.py` directly.
