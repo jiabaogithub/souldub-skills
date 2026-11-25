@@ -228,7 +228,7 @@ Field rules:
 | Field | Required | Notes |
 | --- | --- | --- |
 | `fileId` | Yes | Completed upload `fileId` |
-| `videoDurationSeconds` | Yes | `1..3600` seconds |
+| `videoDurationSeconds` | Yes | `1..1800` seconds |
 | `checksumSha256` | No | Source file SHA-256 for tracking and validation |
 | `sourceLanguage` | Yes | Source language; `auto` is allowed |
 | `targetLanguage` | Yes | Target language; `auto` is not allowed |
